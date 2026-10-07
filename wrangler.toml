@@ -1,0 +1,13 @@
+name = "kauma-design"
+compatibility_date = "2026-10-07"
+pages_build_output_dir = "dist"
+
+# Optional Workers/D1/R2 configuration:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "kauma-design"
+# database_id = "REPLACE_WITH_DATABASE_ID"
+#
+# [[r2_buckets]]
+# binding = "ASSETS"
+# bucket_name = "kauma-design-assets"
